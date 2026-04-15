@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+wandb/
+
+mlops_wandb_pipeline.ipynb
+key.py
+tea_debug.log
