@@ -1,7 +1,9 @@
 venv/
 __pycache__/
 wandb/
+data/
 
 mlops_wandb_pipeline.ipynb
 key.py
 tea_debug.log
+
