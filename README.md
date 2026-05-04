@@ -17,7 +17,7 @@ Este projeto tem como objetivo desenvolver um modelo de classificação de corpo
 
 ### Criação da venv
 ```bash
-python -m venv .venv
+python -m venv venv
 ```
 
 ### Ativação do ambiente
@@ -32,7 +32,7 @@ deactivate
 ## Instalar dependências
 
 ```bash
-pip install -r requirements.txt.
+pip install -r requirements.txt
 ```
 
 ## Desenvolvedor
